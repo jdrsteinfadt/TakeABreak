@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		6FA0489C1D79EB7700AEC98E /* TakeABreak.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = TakeABreak.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		6FA048901D79EB2D00AEC98E = {
 			isa = PBXGroup;
 			children = (
+				6FA0489C1D79EB7700AEC98E /* TakeABreak.py */,
 			);
 			sourceTree = "<group>";
 		};
