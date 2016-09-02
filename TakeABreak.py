@@ -2,7 +2,7 @@ import webbrowser
 import time
 
 total_breaks = 3
-break_time = 2
+break_time = 2     # Break time in hours
 
 print("This program started on "+time.ctime())
 
